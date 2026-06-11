@@ -38,7 +38,7 @@
 
 ## About
 
-I am a software engineer focused on building reliable, scalable, and production-ready digital products. My work combines full stack development, AI/ML experimentation, modern frontend systems, backend architecture, and product-oriented engineering.
+I am a student software engineer in CMU focused on building reliable, scalable, and production-ready digital products. My work combines full stack development, AI/ML experimentation, modern frontend systems, backend architecture, and product-oriented engineering.
 
 I enjoy working where software quality and user impact meet: clean APIs, usable interfaces, secure data flows, fast iteration, and maintainable systems. My engineering mindset is grounded in practical delivery, thoughtful architecture, and continuous improvement.
 
