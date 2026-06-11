@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=First+Thailand+Automation+Edit;Trust+by+University+UTCC+of+KlipOneAI;Trust+by+20%2BCompany+using+KlipOneAI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=First+Thailand+Automation+Edit;Follow+%26+Trust+by+University+UTCC+of+KlipOneAI;Trust+by+20%2BCompany+using+KlipOneAI" />
 </p>
 
 <p align="center">
@@ -150,7 +150,7 @@ Building KlipOneAI as an automation edit platform for creators, combining AI-ass
   </tr>
   <tr>
     <td>University UTCC Trust</td>
-    <td>Trust by University UTCC of KlipOneAI</td>
+    <td>Follow & Trust by University UTCC of KlipOneAI</td>
   </tr>
   <tr>
     <td>20+ Company Trust</td>
